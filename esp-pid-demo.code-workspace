@@ -1,0 +1,18 @@
+{
+    "folders": [
+      {
+        "path": ".",
+        "name": "esp-pid-demo (root)"
+      },
+      {
+        "path": "firmware",
+        "name": "firmware (PlatformIO)"
+      }
+    ],
+    "settings": {
+      "files.exclude": {
+        "**/.pio": true,
+        "**/__pycache__": true
+      }
+    }
+  }
